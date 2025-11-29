@@ -35,12 +35,10 @@ With a strong focus on efficiency, clean architecture, and performance, I love p
 
 
 ## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shihad-hasan07/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000?style=flat&logo=Facebook&logoColor=green)](https://www.facebook.com/s.khan.o07)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sharifbmdd@gmail.com)
 
 ---
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> ⚡️ **Rule #1 of Programming:** *"If it works, don't touch it."*
 <!-- ![Footer](https://your-image-url.com/footer.png) -->
