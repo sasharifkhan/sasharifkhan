@@ -14,7 +14,7 @@
 <!-- Short tagline -->
 Crafting high-performance apps and intelligent automation systems that make life easier.
 
-![Header](https://github.com/sasharifkhan/sasharifkhan/blob/main/image.png)
+![Header]()
 
 ## About Me
 
