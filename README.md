@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shihad+Hasan.+🙋‍♂️;+Welcome+to+my+profile+💕;&color=FF5733" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shariful+Islam.+🙋‍♂️;+Welcome+to+my+profile+💕;&color=FF5733" />
 </h1>
 
 ![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/profile-banner.jpg)
@@ -30,7 +30,7 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-34A853?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## Projects
 
