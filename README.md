@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shariful+Islam.;Welcome+to+my+profile;&color=FF5733" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&duration=3000&pause=500&color=FF6A00&center=false&vCenter=true&width=650&height=70&lines=Professional+App+Developer;Automation+Developer;Web+Automation+Bot+Creator;Flutter+App+Developer" />
 </h1>
 
 ![Header](https://github.com/sasharifkhan/sasharifkhan/blob/main/image.png)
