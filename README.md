@@ -2,16 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shariful+Islam.;+Welcome+to+my+profile;&color=FF5733" />
 </h1>
 
-![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/profile-banner.jpg)
+//![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/profile-banner.jpg)
 
 ## About Me
 
-Hi there! I'm a passionate web developer with a love for creating beautiful, user-friendly websites and applications. With a keen eye for detail and a drive for innovation, I strive to push the boundaries of web development.
+Hi there! I'm a passionate **Web Automation Bot Developer** and **Flutter App Developer**, dedicated to building smart automation tools and beautiful, user-friendly mobile applications.  
+With a strong focus on efficiency, clean architecture, and performance, I love pushing boundaries and crafting solutions that actually make life easier.
 
-- 🔭 Currently working on: Web Automation Bot Development Projects.
-- 🌱 Currently learning: Advanced API and Flutter Animation.
-- 💬 Ask me about: Web Automation Bot Development & Application Development
-- 📫 Reach me on facebook: [Shariful Islam]((https://www.facebook.com/s.khan.o07))
+- 🔭 Currently working on: **Advanced Web Automation Bots & Cross-Platform Flutter Apps**
+- 🌱 Currently learning: **Advanced API Integrations & Flutter Animations**
+- 💬 Ask me about: **Web Automation Bot Development, Flutter App Development & API Automation**
+- 📫 Reach me on Facebook: [Shariful Islam](https://www.facebook.com/s.khan.o07)
 
 ## Skills
 
