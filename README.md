@@ -49,7 +49,7 @@ With a strong focus on efficiency, clean architecture, and performance, I love p
 
 
 ## Connect with Me
-[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-000000?style=flat&logo=Facebook&logoColor=green)](https://www.facebook.com/s.khan.o07)
+[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-white?style=flat&logo=Facebook&logoColor=blue)](https://www.facebook.com/s.khan.o07)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sharifbmdd@gmail.com)
 
 ---
