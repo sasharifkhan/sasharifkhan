@@ -1,6 +1,18 @@
+<!-- Header typing SVG (premium orange) -->
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&duration=3000&pause=500&color=FF6A00&center=false&vCenter=true&width=650&height=70&lines=Professional+App+Developer;Automation+Developer;Web+Automation+Bot+Creator;Flutter+App+Developer" />
 </h1>
+
+<!-- Optional banner image (uncomment if you have this file in your repo) -->
+<!--
+![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/profile-banner.jpg)
+-->
+
+<!-- Hero / Title (clean & bold) -->
+### 🌟 **Professional App Developer & Automation Developer**
+
+<!-- Short tagline -->
+Crafting high-performance apps and intelligent automation systems that make life easier.
 
 ![Header](https://github.com/sasharifkhan/sasharifkhan/blob/main/image.png)
 
