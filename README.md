@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shariful+Islam.+🙋‍♂️;+Welcome+to+my+profile+💕;&color=FF5733" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Shariful+Islam.;+Welcome+to+my+profile;&color=FF5733" />
 </h1>
 
 ![Header](https://github.com/shihad-hasan07/shihad-hasan07/blob/main/image/profile-banner.jpg)
@@ -8,10 +8,10 @@
 
 Hi there! I'm a passionate web developer with a love for creating beautiful, user-friendly websites and applications. With a keen eye for detail and a drive for innovation, I strive to push the boundaries of web development.
 
-- 🔭 Currently working on: Awesome web projects
-- 🌱 Currently learning: Advanced JavaScript, React, and Node.js
-- 💬 Ask me about: Web development, JavaScript, and design
-- 📫 Reach me on facebook: [Shihad Hasan](https://www.facebook.com/profile.php?id=100076352076772)
+- 🔭 Currently working on: Web Automation Bot Development Projects.
+- 🌱 Currently learning: Advanced API and Flutter Animation.
+- 💬 Ask me about: Web Automation Bot Development & Application Development
+- 📫 Reach me on facebook: [Shariful Islam]((https://www.facebook.com/s.khan.o07))
 
 ## Skills
 
@@ -32,20 +32,12 @@ Hi there! I'm a passionate web developer with a love for creating beautiful, use
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-34A853?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
-## Projects
-
-### Project 1: [Pet-bridge](https://pet-bridge.web.app/)
-You can adopt loving pets, discover adoption options, and access resources for new pet owners, ensuring a smooth transition for your new furry family member.
-
-### Project 2: [Foco](https://foody-cart-6c36f.web.app/)
-Those who live under poverty lead miserable lives. By donating your valuable money, you can help them.
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shihad-hasan07/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:shihadhasan607255@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://shihad-hasan.web.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sharifbmdd@gmail.com)
 
 ---
 
