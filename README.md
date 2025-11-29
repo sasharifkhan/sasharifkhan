@@ -35,7 +35,7 @@ With a strong focus on efficiency, clean architecture, and performance, I love p
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-11224E?style=flat&logo=Selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-000000?style=flat&logo=Playwright&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 
